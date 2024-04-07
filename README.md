@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @IshikaBrar21
 - 👀 I’m interested in learning to code and build stuff online.
-- 🌱 I’m currently learning web development.
-- 💞️ I’m looking to collaborate on any web development and C++ based projects.
+- 🌱 I’m currently learning about AI and machine learning.
+- 💞️ I’m looking to collaborate on any web development and Python or C++ based projects.
 - 📫 How to reach me : contact me via email: ishikabrar3@gmail.com
 
 <!---
